@@ -12,7 +12,7 @@ function SignedInLinks() {
       </li>
       <li>
         {" "}
-        <NavLink to="/" className="btn btn-floating pink lighten-1">
+        <NavLink to="/" className="btn btn-floating red darken-4">
           SK
         </NavLink>
       </li>
