@@ -8,7 +8,7 @@ function Navbar() {
     <nav className="nav-wrapper grey darken-3">
       <div className="container">
         <Link to="/" className="brand-logo">
-          Project Manager
+          KhanDoor Media Project Manager
         </Link>
         <SignedInLinks />
         <SignedOutLinks />
