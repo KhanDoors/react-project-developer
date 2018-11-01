@@ -41,7 +41,7 @@ class SignedUp extends Component {
             <input type="text" id="lastName" onChange={this.handleChange} />
           </div>
           <div className="input-field">
-            <button className="btn red darken-4 z-depth-0">Jump In</button>
+            <button className="btn green accent-3 z-depth-0">Jump In</button>
           </div>
         </form>
       </div>
