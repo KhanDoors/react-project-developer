@@ -15,7 +15,7 @@ function SignedInLinks(props) {
       <li>
         {" "}
         <NavLink to="/" className="btn btn-floating red darken-4">
-          SK
+          {props.profile.initials}
         </NavLink>
       </li>
     </ul>
