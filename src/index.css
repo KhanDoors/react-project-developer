@@ -9,8 +9,9 @@ body {
   background: url(/image/pexels-photo-830891.jpg) no-repeat;
   background-size: 100%;
   background-position: center;
-  background-color: rgb(54, 79, 223);
+  background-color: rgb(54, 79, 223, 0.5);
   min-height: 100%;
+  z-index: -3;
 }
 
 form {
